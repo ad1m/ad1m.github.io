@@ -1962,4 +1962,9 @@ a.ui.card:hover,
   box-sizing: border-box;
 }
 
+h1 {
+     font-family: londrina-shadow, sans-serif;
+     font-size: 150px;
+    }
+
 
